@@ -1,32 +1,20 @@
-State,City,Year,Store type,Price per kilogram
-Tamaulipas,Nuevo Laredo,2007,Mom and Pop Store,
+state,city,year,storeType,price
 Chihuahua,Chihuahua,2007,Mom and Pop Store,10
 Tamaulipas,Reynosa,2007,Mom and Pop Store,10.02
-BajaCalifornia,Mexicali,2007,Mom and Pop Store,
-Chihuahua,Cd. Juárez,2007,Mom and Pop Store,
-Tamaulipas,Tampico,2007,Mom and Pop Store,
 BajaCalifornia,Tijuana,2007,Mom and Pop Store,10
 Coahuila,Piedras Negras,2007,Mom and Pop Store,10
 NuevoLeon,Monterrey,2007,Mom and Pop Store,9.7
 Sonora,Cd. Obregón,2007,Mom and Pop Store,11.6
-Coahuila,Saltillo,2007,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2007,Mom and Pop Store,
 Sonora,Hermosillo,2007,Mom and Pop Store,11.4
 Tamaulipas,Cd. Victoria,2007,Mom and Pop Store,8.6
-Sonora,Nogales,2007,Mom and Pop Store,
 Tamaulipas,Matamoros,2007,Mom and Pop Store,9.8
 Tamaulipas,Nuevo Laredo,2007,Mom and Pop Store,9.8
 Chihuahua,Chihuahua,2007,Mom and Pop Store,9.5
 Tamaulipas,Reynosa,2007,Mom and Pop Store,10.2
-BajaCalifornia,Mexicali,2007,Mom and Pop Store,
-Chihuahua,Cd. Juárez,2007,Mom and Pop Store,
-Tamaulipas,Tampico,2007,Mom and Pop Store,
 BajaCalifornia,Tijuana,2007,Mom and Pop Store,10.2
 Coahuila,Piedras Negras,2007,Mom and Pop Store,10
 NuevoLeon,Monterrey,2007,Mom and Pop Store,9.4
 Sonora,Cd. Obregón,2007,Mom and Pop Store,11.3
-Coahuila,Saltillo,2007,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2007,Mom and Pop Store,
 Sonora,Hermosillo,2007,Mom and Pop Store,11.6
 Tamaulipas,Cd. Victoria,2007,Mom and Pop Store,9
 Sonora,Nogales,2007,Mom and Pop Store,11
@@ -423,12 +411,10 @@ Chihuahua,Cd. Juárez,2007,Mom and Pop Store,8.44
 Tamaulipas,Tampico,2007,Mom and Pop Store,10
 BajaCalifornia,Tijuana,2007,Big Retail Store,5.62
 Coahuila,Piedras Negras,2007,Big Retail Store,5.43
-Tamaulipas,Nuevo Laredo,2007,Big Retail Store,
 Chihuahua,Chihuahua,2007,Big Retail Store,5.47
 NuevoLeon,Monterrey,2007,Big Retail Store,5.97
 Sonora,Hermosillo,2007,Big Retail Store,5.63
 Tamaulipas,Cd. Victoria,2007,Big Retail Store,5.8
-Tamaulipas,Tampico,2007,Big Retail Store,
 BajaCalifornia,Tijuana,2007,Big Retail Store,5.88
 Coahuila,Piedras Negras,2007,Big Retail Store,5.63
 Tamaulipas,Nuevo Laredo,2007,Big Retail Store,5.57
@@ -436,7 +422,6 @@ Chihuahua,Chihuahua,2007,Big Retail Store,5.67
 NuevoLeon,Monterrey,2007,Big Retail Store,5.33
 Sonora,Hermosillo,2007,Big Retail Store,5.37
 Tamaulipas,Cd. Victoria,2007,Big Retail Store,5.1
-Tamaulipas,Tampico,2007,Big Retail Store,
 BajaCalifornia,Tijuana,2007,Big Retail Store,5.85
 Coahuila,Piedras Negras,2007,Big Retail Store,5.63
 Tamaulipas,Nuevo Laredo,2007,Big Retail Store,5.53
@@ -444,7 +429,6 @@ Chihuahua,Chihuahua,2007,Big Retail Store,5.9
 NuevoLeon,Monterrey,2007,Big Retail Store,5.33
 Sonora,Hermosillo,2007,Big Retail Store,5.6
 Tamaulipas,Cd. Victoria,2007,Big Retail Store,5.7
-Tamaulipas,Tampico,2007,Big Retail Store,
 BajaCalifornia,Tijuana,2007,Big Retail Store,5.88
 Coahuila,Piedras Negras,2007,Big Retail Store,5.87
 Tamaulipas,Nuevo Laredo,2007,Big Retail Store,5.53
@@ -4130,10 +4114,6 @@ NuevoLeon,ZM Monterrey,2012,Mom and Pop Store,13.82
 Sonora,Hermosillo,2012,Mom and Pop Store,16.33
 Coahuila,Saltillo,2012,Mom and Pop Store,12.1
 Tamaulipas,Reynosa,2012,Mom and Pop Store,13.25
-BajaCalifornia,Mexicali,2012,Mom and Pop Store,
-Chihuahua,Chihuahua,2012,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2012,Mom and Pop Store,
-Tamaulipas,Matamoros,2012,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2012,Mom and Pop Store,13.82
 Sonora,Hermosillo,2012,Mom and Pop Store,16.33
 Coahuila,Saltillo,2012,Mom and Pop Store,12.1
@@ -4162,10 +4142,6 @@ NuevoLeon,ZM Monterrey,2012,Mom and Pop Store,13.82
 Sonora,Hermosillo,2012,Mom and Pop Store,16.33
 Coahuila,Saltillo,2012,Mom and Pop Store,12.1
 Tamaulipas,Reynosa,2012,Mom and Pop Store,13.25
-BajaCalifornia,Mexicali,2012,Mom and Pop Store,
-Chihuahua,Chihuahua,2012,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2012,Mom and Pop Store,
-Tamaulipas,Matamoros,2012,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2012,Mom and Pop Store,13.82
 Sonora,Hermosillo,2012,Mom and Pop Store,16.33
 Coahuila,Saltillo,2012,Mom and Pop Store,12.1
@@ -4346,10 +4322,6 @@ NuevoLeon,ZM Monterrey,2012,Mom and Pop Store,13.89
 Sonora,Hermosillo,2012,Mom and Pop Store,16.5
 Coahuila,Saltillo,2012,Mom and Pop Store,12.1
 Tamaulipas,Reynosa,2012,Mom and Pop Store,13.25
-BajaCalifornia,Mexicali,2012,Mom and Pop Store,
-Chihuahua,Chihuahua,2012,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2012,Mom and Pop Store,
-Tamaulipas,Matamoros,2012,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2012,Mom and Pop Store,13.89
 Sonora,Hermosillo,2012,Mom and Pop Store,16.5
 Coahuila,Saltillo,2012,Mom and Pop Store,12.1
@@ -4544,8 +4516,6 @@ Sonora,San Luis Río Colorado,2012,Big Retail Store,9.43
 Tamaulipas,Matamoros,2012,Big Retail Store,10.23
 NuevoLeon,ZM Monterrey,2012,Big Retail Store,9.9
 Sonora,Hermosillo,2012,Big Retail Store,9.9
-Coahuila,Saltillo,2012,Big Retail Store,
-Tamaulipas,Reynosa,2012,Big Retail Store,
 BajaCalifornia,Mexicali,2012,Big Retail Store,9.77
 Chihuahua,Chihuahua,2012,Big Retail Store,10.26
 Sonora,San Luis Río Colorado,2012,Big Retail Store,9.43
@@ -4576,8 +4546,6 @@ Sonora,San Luis Río Colorado,2012,Big Retail Store,9.77
 Tamaulipas,Matamoros,2012,Big Retail Store,10.57
 NuevoLeon,ZM Monterrey,2012,Big Retail Store,10.9
 Sonora,Hermosillo,2012,Big Retail Store,10.57
-Coahuila,Saltillo,2012,Big Retail Store,
-Tamaulipas,Reynosa,2012,Big Retail Store,
 BajaCalifornia,Mexicali,2012,Big Retail Store,9.77
 Chihuahua,Chihuahua,2012,Big Retail Store,10.26
 Sonora,San Luis Río Colorado,2012,Big Retail Store,9.77
@@ -4761,7 +4729,6 @@ Tamaulipas,Matamoros,2012,Big Retail Store,10.9
 NuevoLeon,ZM Monterrey,2012,Big Retail Store,10.9
 Sonora,Hermosillo,2012,Big Retail Store,10.43
 Coahuila,Saltillo,2012,Big Retail Store,10.1
-Tamaulipas,Reynosa,2012,Big Retail Store,
 BajaCalifornia,Mexicali,2012,Big Retail Store,10.57
 Chihuahua,Chihuahua,2012,Big Retail Store,10.6
 Sonora,San Luis Río Colorado,2012,Big Retail Store,10.1
@@ -4894,8 +4861,6 @@ BajaCalifornia,Mexicali,2013,Mom and Pop Store,16.29
 Chihuahua,Chihuahua,2013,Mom and Pop Store,14.67
 Sonora,San Luis Río Colorado,2013,Mom and Pop Store,15
 Tamaulipas,Matamoros,2013,Mom and Pop Store,15
-NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,
-Sonora,Hermosillo,2013,Mom and Pop Store,
 Coahuila,Saltillo,2013,Mom and Pop Store,12.3
 Tamaulipas,Reynosa,2013,Mom and Pop Store,13.5
 BajaCalifornia,Mexicali,2013,Mom and Pop Store,16.29
@@ -4906,10 +4871,6 @@ NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,13.89
 Sonora,Hermosillo,2013,Mom and Pop Store,16.5
 Coahuila,Saltillo,2013,Mom and Pop Store,12.3
 Tamaulipas,Reynosa,2013,Mom and Pop Store,13.5
-BajaCalifornia,Mexicali,2013,Mom and Pop Store,
-Chihuahua,Chihuahua,2013,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2013,Mom and Pop Store,
-Tamaulipas,Matamoros,2013,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,13.89
 Sonora,Hermosillo,2013,Mom and Pop Store,16.5
 Coahuila,Saltillo,2013,Mom and Pop Store,12.3
@@ -5154,10 +5115,6 @@ NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,13.97
 Sonora,Hermosillo,2013,Mom and Pop Store,16.83
 Coahuila,Saltillo,2013,Mom and Pop Store,12.4
 Tamaulipas,Reynosa,2013,Mom and Pop Store,13.5
-BajaCalifornia,Mexicali,2013,Mom and Pop Store,
-Chihuahua,Chihuahua,2013,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2013,Mom and Pop Store,
-Tamaulipas,Matamoros,2013,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,13.97
 Sonora,Hermosillo,2013,Mom and Pop Store,16.83
 Coahuila,Saltillo,2013,Mom and Pop Store,12.4
@@ -5170,10 +5127,6 @@ NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,13.97
 Sonora,Hermosillo,2013,Mom and Pop Store,17.17
 Coahuila,Saltillo,2013,Mom and Pop Store,12.4
 Tamaulipas,Reynosa,2013,Mom and Pop Store,13.5
-BajaCalifornia,Mexicali,2013,Mom and Pop Store,
-Chihuahua,Chihuahua,2013,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2013,Mom and Pop Store,
-Tamaulipas,Matamoros,2013,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,13.97
 Sonora,Hermosillo,2013,Mom and Pop Store,17.33
 Coahuila,Saltillo,2013,Mom and Pop Store,12.4
@@ -5214,16 +5167,12 @@ BajaCalifornia,Mexicali,2013,Mom and Pop Store,16.29
 Chihuahua,Chihuahua,2013,Mom and Pop Store,14.67
 Sonora,San Luis Río Colorado,2013,Mom and Pop Store,15
 Tamaulipas,Matamoros,2013,Mom and Pop Store,15.5
-NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,
-Sonora,Hermosillo,2013,Mom and Pop Store,
 Coahuila,Saltillo,2013,Mom and Pop Store,12.4
 Tamaulipas,Reynosa,2013,Mom and Pop Store,13.5
 BajaCalifornia,Mexicali,2013,Mom and Pop Store,16.29
 Chihuahua,Chihuahua,2013,Mom and Pop Store,14.67
 Sonora,San Luis Río Colorado,2013,Mom and Pop Store,15
 Tamaulipas,Matamoros,2013,Mom and Pop Store,15.5
-NuevoLeon,ZM Monterrey,2013,Mom and Pop Store,
-Sonora,Hermosillo,2013,Mom and Pop Store,
 Coahuila,Saltillo,2013,Big Retail Store,10.1
 Tamaulipas,Reynosa,2013,Big Retail Store,10.43
 BajaCalifornia,Mexicali,2013,Big Retail Store,10.57
@@ -5306,10 +5255,6 @@ NuevoLeon,ZM Monterrey,2013,Big Retail Store,11.2
 Sonora,Hermosillo,2013,Big Retail Store,11.1
 Coahuila,Saltillo,2013,Big Retail Store,10.67
 Tamaulipas,Reynosa,2013,Big Retail Store,10.8
-BajaCalifornia,Mexicali,2013,Big Retail Store,
-Chihuahua,Chihuahua,2013,Big Retail Store,
-Sonora,San Luis Río Colorado,2013,Big Retail Store,
-Tamaulipas,Matamoros,2013,Big Retail Store,
 NuevoLeon,ZM Monterrey,2013,Big Retail Store,11.2
 Sonora,Hermosillo,2013,Big Retail Store,11.1
 Coahuila,Saltillo,2013,Big Retail Store,10.67
@@ -5321,7 +5266,6 @@ Tamaulipas,Matamoros,2013,Big Retail Store,11.2
 NuevoLeon,ZM Monterrey,2013,Big Retail Store,11.2
 Sonora,Hermosillo,2013,Big Retail Store,11.1
 Coahuila,Saltillo,2013,Big Retail Store,10.67
-Tamaulipas,Reynosa,2013,Big Retail Store,
 BajaCalifornia,Mexicali,2013,Big Retail Store,11
 Chihuahua,Chihuahua,2013,Big Retail Store,11.36
 Sonora,San Luis Río Colorado,2013,Big Retail Store,10.43
@@ -5568,8 +5512,6 @@ Sonora,San Luis Río Colorado,2013,Big Retail Store,10.43
 Tamaulipas,Matamoros,2013,Big Retail Store,9.83
 NuevoLeon,ZM Monterrey,2013,Big Retail Store,11.2
 Sonora,Hermosillo,2013,Big Retail Store,10
-Coahuila,Saltillo,2013,Big Retail Store,
-Tamaulipas,Reynosa,2013,Big Retail Store,
 BajaCalifornia,Mexicali,2013,Big Retail Store,10.93
 Chihuahua,Chihuahua,2013,Big Retail Store,11.36
 Sonora,San Luis Río Colorado,2013,Big Retail Store,10.43
@@ -5584,8 +5526,6 @@ Sonora,San Luis Río Colorado,2013,Big Retail Store,10.43
 Tamaulipas,Matamoros,2013,Big Retail Store,10.17
 NuevoLeon,ZM Monterrey,2013,Big Retail Store,11.2
 Sonora,Hermosillo,2013,Big Retail Store,10
-Coahuila,Saltillo,2013,Big Retail Store,
-Tamaulipas,Reynosa,2013,Big Retail Store,
 BajaCalifornia,Mexicali,2013,Big Retail Store,10.93
 Chihuahua,Chihuahua,2013,Big Retail Store,11.36
 Sonora,San Luis Río Colorado,2013,Big Retail Store,10.43
@@ -5626,18 +5566,11 @@ NuevoLeon,ZM Monterrey,2013,Big Retail Store,11.2
 Sonora,Hermosillo,2013,Big Retail Store,10
 Coahuila,Saltillo,2013,Big Retail Store,9.67
 Tamaulipas,Reynosa,2013,Big Retail Store,11.23
-BajaCalifornia,Mexicali,2013,Big Retail Store,
-Chihuahua,Chihuahua,2013,Big Retail Store,
-Sonora,San Luis Río Colorado,2013,Big Retail Store,
 Tamaulipas,Matamoros,2013,Big Retail Store,9.83
 NuevoLeon,ZM Monterrey,2013,Big Retail Store,11.2
 Sonora,Hermosillo,2013,Big Retail Store,10
 Coahuila,Saltillo,2013,Big Retail Store,9.67
 Tamaulipas,Reynosa,2013,Big Retail Store,11.23
-BajaCalifornia,Mexicali,2013,Big Retail Store,
-Chihuahua,Chihuahua,2013,Big Retail Store,
-Sonora,San Luis Río Colorado,2013,Big Retail Store,
-Tamaulipas,Matamoros,2013,Big Retail Store,
 NuevoLeon,ZM Monterrey,2014,Mom and Pop Store,14
 Sonora,Hermosillo,2014,Mom and Pop Store,17.33
 Coahuila,Saltillo,2014,Mom and Pop Store,12.4
@@ -5826,10 +5759,6 @@ NuevoLeon,ZM Monterrey,2014,Mom and Pop Store,14
 Sonora,Hermosillo,2014,Mom and Pop Store,17.33
 Coahuila,Saltillo,2014,Mom and Pop Store,12.4
 Tamaulipas,Reynosa,2014,Mom and Pop Store,13.75
-BajaCalifornia,Mexicali,2014,Mom and Pop Store,
-Chihuahua,Chihuahua,2014,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2014,Mom and Pop Store,
-Tamaulipas,Matamoros,2014,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2014,Mom and Pop Store,14
 Sonora,Hermosillo,2014,Mom and Pop Store,17.33
 Coahuila,Saltillo,2014,Mom and Pop Store,12.4
@@ -5899,9 +5828,6 @@ Sonora,Hermosillo,2014,Mom and Pop Store,17.33
 Coahuila,Saltillo,2014,Mom and Pop Store,12.4
 Tamaulipas,Reynosa,2014,Mom and Pop Store,13.75
 BajaCalifornia,Mexicali,2014,Mom and Pop Store,16.29
-Chihuahua,Chihuahua,2014,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2014,Mom and Pop Store,
-Tamaulipas,Matamoros,2014,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2014,Mom and Pop Store,14
 Sonora,Hermosillo,2014,Mom and Pop Store,17.33
 Coahuila,Saltillo,2014,Mom and Pop Store,12.4
@@ -6234,10 +6160,6 @@ NuevoLeon,ZM Monterrey,2014,Big Retail Store,11.2
 Sonora,Hermosillo,2014,Big Retail Store,10.17
 Coahuila,Saltillo,2014,Big Retail Store,9.63
 Tamaulipas,Reynosa,2014,Big Retail Store,11.23
-BajaCalifornia,Mexicali,2014,Big Retail Store,
-Chihuahua,Chihuahua,2014,Big Retail Store,
-Sonora,San Luis Río Colorado,2014,Big Retail Store,
-Tamaulipas,Matamoros,2014,Big Retail Store,
 NuevoLeon,ZM Monterrey,2014,Big Retail Store,11.2
 Sonora,Hermosillo,2014,Big Retail Store,10.17
 Coahuila,Saltillo,2014,Big Retail Store,9.63
@@ -6307,9 +6229,6 @@ Sonora,Hermosillo,2014,Big Retail Store,10
 Coahuila,Saltillo,2014,Big Retail Store,10.1
 Tamaulipas,Reynosa,2014,Big Retail Store,11.23
 BajaCalifornia,Mexicali,2014,Big Retail Store,10.8
-Chihuahua,Chihuahua,2014,Big Retail Store,
-Sonora,San Luis Río Colorado,2014,Big Retail Store,
-Tamaulipas,Matamoros,2014,Big Retail Store,
 NuevoLeon,ZM Monterrey,2014,Big Retail Store,10.17
 Sonora,Hermosillo,2014,Big Retail Store,10
 Coahuila,Saltillo,2014,Big Retail Store,10.1
@@ -7418,10 +7337,6 @@ NuevoLeon,ZM Monterrey,2016,Mom and Pop Store,14.05
 Sonora,Hermosillo,2016,Mom and Pop Store,19
 Coahuila,Saltillo,2016,Mom and Pop Store,13.2
 Tamaulipas,Reynosa,2016,Mom and Pop Store,15
-BajaCalifornia,Mexicali,2016,Mom and Pop Store,
-Chihuahua,Chihuahua,2016,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2016,Mom and Pop Store,
-Tamaulipas,Matamoros,2016,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2016,Mom and Pop Store,14.05
 Sonora,Hermosillo,2016,Mom and Pop Store,19
 Coahuila,Saltillo,2016,Mom and Pop Store,13.2
@@ -7498,10 +7413,6 @@ NuevoLeon,ZM Monterrey,2016,Mom and Pop Store,14.05
 Sonora,Hermosillo,2016,Mom and Pop Store,19
 Coahuila,Saltillo,2016,Mom and Pop Store,13.2
 Tamaulipas,Reynosa,2016,Mom and Pop Store,15
-BajaCalifornia,Mexicali,2016,Mom and Pop Store,
-Chihuahua,Chihuahua,2016,Mom and Pop Store,
-Sonora,San Luis Río Colorado,2016,Mom and Pop Store,
-Tamaulipas,Matamoros,2016,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2016,Mom and Pop Store,14.05
 Sonora,Hermosillo,2016,Mom and Pop Store,19
 Coahuila,Saltillo,2016,Mom and Pop Store,13.2
@@ -7824,8 +7735,6 @@ Sonora,San Luis Río Colorado,2016,Big Retail Store,10.3
 Tamaulipas,Matamoros,2016,Big Retail Store,11.3
 NuevoLeon,ZM Monterrey,2016,Big Retail Store,10.03
 Sonora,Hermosillo,2016,Big Retail Store,10.13
-Coahuila,Saltillo,2016,Big Retail Store,
-Tamaulipas,Reynosa,2016,Big Retail Store,
 BajaCalifornia,Mexicali,2016,Big Retail Store,10.97
 Chihuahua,Chihuahua,2016,Big Retail Store,11.36
 Sonora,San Luis Río Colorado,2016,Big Retail Store,10.3
@@ -7904,8 +7813,6 @@ Sonora,San Luis Río Colorado,2016,Big Retail Store,10
 Tamaulipas,Matamoros,2016,Big Retail Store,11.07
 NuevoLeon,ZM Monterrey,2016,Big Retail Store,10.2
 Sonora,Hermosillo,2016,Big Retail Store,10.13
-Coahuila,Saltillo,2016,Big Retail Store,
-Tamaulipas,Reynosa,2016,Big Retail Store,
 BajaCalifornia,Mexicali,2016,Big Retail Store,10.33
 Chihuahua,Chihuahua,2016,Big Retail Store,11.36
 Sonora,San Luis Río Colorado,2016,Big Retail Store,10
@@ -10039,16 +9946,12 @@ Sonora,Hermosillo,2019,Mom and Pop Store,21.17
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,14.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
-Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
-Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
-Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
-Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
@@ -10080,16 +9983,13 @@ NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
-Sonora,Hermosillo,2019,Mom and Pop Store,
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.55
-Sonora,Hermosillo,2019,Mom and Pop Store,
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
-Sonora,Hermosillo,2019,Mom and Pop Store,
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
@@ -10247,7 +10147,6 @@ Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
-NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,
 Sonora,Hermosillo,2019,Mom and Pop Store,21.17
 Tamaulipas,Cd. Victoria,2019,Mom and Pop Store,15.5
 NuevoLeon,ZM Monterrey,2019,Mom and Pop Store,15.5
@@ -10486,16 +10385,12 @@ Sonora,Hermosillo,2019,Big Retail Store,11.13
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,11.4
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11.13
-Tamaulipas,Cd. Victoria,2019,Big Retail Store,
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11.13
-Tamaulipas,Cd. Victoria,2019,Big Retail Store,
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11.13
-Tamaulipas,Cd. Victoria,2019,Big Retail Store,
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11.13
-Tamaulipas,Cd. Victoria,2019,Big Retail Store,
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11.13
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,12.23
@@ -10527,16 +10422,13 @@ NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,12.23
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
-Sonora,Hermosillo,2019,Big Retail Store,
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,12.23
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,12.23
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
-Sonora,Hermosillo,2019,Big Retail Store,
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,12.23
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
-Sonora,Hermosillo,2019,Big Retail Store,
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,12.23
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.38
 Sonora,Hermosillo,2019,Big Retail Store,11
@@ -10694,7 +10586,6 @@ Tamaulipas,Cd. Victoria,2019,Big Retail Store,11.77
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.42
 Sonora,Hermosillo,2019,Big Retail Store,11
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,11.77
-NuevoLeon,ZM Monterrey,2019,Big Retail Store,
 Sonora,Hermosillo,2019,Big Retail Store,11
 Tamaulipas,Cd. Victoria,2019,Big Retail Store,11.77
 NuevoLeon,ZM Monterrey,2019,Big Retail Store,11.63
@@ -10914,108 +10805,26 @@ Tamaulipas,Tampico,2020,Mom and Pop Store,18
 Coahuila,Saltillo,2020,Mom and Pop Store,16.6
 NuevoLeon,Monterrey,2020,Mom and Pop Store,16.88
 Sonora,Cd. Obregón,2020,Mom and Pop Store,21.33
-Coahuila,Torreón,2020,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,
-Sonora,Hermosillo,2020,Mom and Pop Store,
-Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,
-Sonora,Nogales,2020,Mom and Pop Store,
-Tamaulipas,Matamoros,2020,Mom and Pop Store,
-Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,
-BajaCalifornia,Mexicali,2020,Mom and Pop Store,
-Chihuahua,Chihuahua,2020,Mom and Pop Store,
-Tamaulipas,Reynosa,2020,Mom and Pop Store,
-BajaCalifornia,Tijuana,2020,Mom and Pop Store,
-Coahuila,Piedras Negras,2020,Mom and Pop Store,
-Chihuahua,Cd. Juárez,2020,Mom and Pop Store,
-Tamaulipas,Tampico,2020,Mom and Pop Store,
-Coahuila,Saltillo,2020,Mom and Pop Store,
-NuevoLeon,Monterrey,2020,Mom and Pop Store,
-Sonora,Cd. Obregón,2020,Mom and Pop Store,
-Coahuila,Torreón,2020,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,
-Sonora,Hermosillo,2020,Mom and Pop Store,
-Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,
-Sonora,Nogales,2020,Mom and Pop Store,
-Tamaulipas,Matamoros,2020,Mom and Pop Store,
-Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,
-BajaCalifornia,Mexicali,2020,Mom and Pop Store,
-Chihuahua,Chihuahua,2020,Mom and Pop Store,
-Tamaulipas,Reynosa,2020,Mom and Pop Store,
-BajaCalifornia,Tijuana,2020,Mom and Pop Store,
-Coahuila,Piedras Negras,2020,Mom and Pop Store,
-Chihuahua,Cd. Juárez,2020,Mom and Pop Store,
-Tamaulipas,Tampico,2020,Mom and Pop Store,
-Coahuila,Saltillo,2020,Mom and Pop Store,
-NuevoLeon,Monterrey,2020,Mom and Pop Store,
-Sonora,Cd. Obregón,2020,Mom and Pop Store,
-Coahuila,Torreón,2020,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,
-Sonora,Hermosillo,2020,Mom and Pop Store,
-Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,
-Sonora,Nogales,2020,Mom and Pop Store,
-Tamaulipas,Matamoros,2020,Mom and Pop Store,
-Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,
-BajaCalifornia,Mexicali,2020,Mom and Pop Store,
-Chihuahua,Chihuahua,2020,Mom and Pop Store,
-Tamaulipas,Reynosa,2020,Mom and Pop Store,
-BajaCalifornia,Tijuana,2020,Mom and Pop Store,
-Coahuila,Piedras Negras,2020,Mom and Pop Store,
-Chihuahua,Cd. Juárez,2020,Mom and Pop Store,
-Tamaulipas,Tampico,2020,Mom and Pop Store,
-Coahuila,Saltillo,2020,Mom and Pop Store,
-NuevoLeon,Monterrey,2020,Mom and Pop Store,
-Sonora,Cd. Obregón,2020,Mom and Pop Store,
-Coahuila,Torreón,2020,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,
-Sonora,Hermosillo,2020,Mom and Pop Store,
-Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,
-Sonora,Nogales,2020,Mom and Pop Store,
-Tamaulipas,Matamoros,2020,Mom and Pop Store,
-Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,
 BajaCalifornia,Mexicali,2020,Mom and Pop Store,19.43
 Chihuahua,Chihuahua,2020,Mom and Pop Store,17.67
-Tamaulipas,Reynosa,2020,Mom and Pop Store,
 BajaCalifornia,Tijuana,2020,Mom and Pop Store,17.73
-Coahuila,Piedras Negras,2020,Mom and Pop Store,
 Chihuahua,Cd. Juárez,2020,Mom and Pop Store,13.56
-Tamaulipas,Tampico,2020,Mom and Pop Store,
-Coahuila,Saltillo,2020,Mom and Pop Store,
-NuevoLeon,Monterrey,2020,Mom and Pop Store,
-Sonora,Cd. Obregón,2020,Mom and Pop Store,
-Coahuila,Torreón,2020,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,
 Sonora,Hermosillo,2020,Mom and Pop Store,22.67
-Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,
 Sonora,Nogales,2020,Mom and Pop Store,20
-Tamaulipas,Matamoros,2020,Mom and Pop Store,
-Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,
 BajaCalifornia,Mexicali,2020,Mom and Pop Store,19.43
 Chihuahua,Chihuahua,2020,Mom and Pop Store,17.67
-Tamaulipas,Reynosa,2020,Mom and Pop Store,
 BajaCalifornia,Tijuana,2020,Mom and Pop Store,17.73
-Coahuila,Piedras Negras,2020,Mom and Pop Store,
 Chihuahua,Cd. Juárez,2020,Mom and Pop Store,13.56
-Tamaulipas,Tampico,2020,Mom and Pop Store,
-Coahuila,Saltillo,2020,Mom and Pop Store,
-NuevoLeon,Monterrey,2020,Mom and Pop Store,
-Sonora,Cd. Obregón,2020,Mom and Pop Store,
-Coahuila,Torreón,2020,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,
 Sonora,Hermosillo,2020,Mom and Pop Store,22.67
-Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,
 Sonora,Nogales,2020,Mom and Pop Store,20
-Tamaulipas,Matamoros,2020,Mom and Pop Store,
 Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,18
 BajaCalifornia,Mexicali,2020,Mom and Pop Store,19.43
 Chihuahua,Chihuahua,2020,Mom and Pop Store,17.67
-Tamaulipas,Reynosa,2020,Mom and Pop Store,
 BajaCalifornia,Tijuana,2020,Mom and Pop Store,17.73
-Coahuila,Piedras Negras,2020,Mom and Pop Store,
 Chihuahua,Cd. Juárez,2020,Mom and Pop Store,13.56
 Tamaulipas,Tampico,2020,Mom and Pop Store,18
 Coahuila,Saltillo,2020,Mom and Pop Store,16.6
 NuevoLeon,Monterrey,2020,Mom and Pop Store,16.88
-Sonora,Cd. Obregón,2020,Mom and Pop Store,
 Coahuila,Torreón,2020,Mom and Pop Store,15.66
 NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,16.97
 Sonora,Hermosillo,2020,Mom and Pop Store,22.67
@@ -11109,16 +10918,13 @@ Sonora,Nogales,2020,Mom and Pop Store,20
 Tamaulipas,Matamoros,2020,Mom and Pop Store,18
 Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,18
 BajaCalifornia,Mexicali,2020,Mom and Pop Store,20
-Chihuahua,Chihuahua,2020,Mom and Pop Store,
 Tamaulipas,Reynosa,2020,Mom and Pop Store,19
 BajaCalifornia,Tijuana,2020,Mom and Pop Store,17.73
 Coahuila,Piedras Negras,2020,Mom and Pop Store,19
-Chihuahua,Cd. Juárez,2020,Mom and Pop Store,
 Tamaulipas,Tampico,2020,Mom and Pop Store,18
 Coahuila,Saltillo,2020,Mom and Pop Store,16.6
 NuevoLeon,Monterrey,2020,Mom and Pop Store,16.88
 Sonora,Cd. Obregón,2020,Mom and Pop Store,18
-Coahuila,Torreón,2020,Mom and Pop Store,
 NuevoLeon,ZM Monterrey,2020,Mom and Pop Store,17.08
 Sonora,Hermosillo,2020,Mom and Pop Store,22.67
 Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,17.5
@@ -11126,11 +10932,9 @@ Sonora,Nogales,2020,Mom and Pop Store,20
 Tamaulipas,Matamoros,2020,Mom and Pop Store,18
 Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,18
 BajaCalifornia,Mexicali,2020,Mom and Pop Store,20
-Chihuahua,Chihuahua,2020,Mom and Pop Store,
 Tamaulipas,Reynosa,2020,Mom and Pop Store,19
 BajaCalifornia,Tijuana,2020,Mom and Pop Store,17.73
 Coahuila,Piedras Negras,2020,Mom and Pop Store,19
-Chihuahua,Cd. Juárez,2020,Mom and Pop Store,
 Tamaulipas,Tampico,2020,Mom and Pop Store,18
 Coahuila,Saltillo,2020,Mom and Pop Store,16.6
 NuevoLeon,Monterrey,2020,Mom and Pop Store,17
@@ -11142,10 +10946,8 @@ Tamaulipas,Cd. Victoria,2020,Mom and Pop Store,17.5
 Sonora,Nogales,2020,Mom and Pop Store,20
 Tamaulipas,Matamoros,2020,Mom and Pop Store,18
 Tamaulipas,Nuevo Laredo,2020,Mom and Pop Store,18
-BajaCalifornia,Mexicali,2020,Mom and Pop Store,
 Chihuahua,Chihuahua,2020,Mom and Pop Store,17.83
 Tamaulipas,Reynosa,2020,Mom and Pop Store,19
-BajaCalifornia,Tijuana,2020,Mom and Pop Store,
 Coahuila,Piedras Negras,2020,Mom and Pop Store,19
 Chihuahua,Cd. Juárez,2020,Mom and Pop Store,13.56
 Tamaulipas,Tampico,2020,Mom and Pop Store,18
@@ -11329,101 +11131,24 @@ Tamaulipas,Cd. Victoria,2020,Big Retail Store,11.87
 Sonora,Nogales,2020,Big Retail Store,10.93
 Tamaulipas,Matamoros,2020,Big Retail Store,12.23
 Tamaulipas,Nuevo Laredo,2020,Big Retail Store,12.3
-BajaCalifornia,Mexicali,2020,Big Retail Store,
-Chihuahua,Chihuahua,2020,Big Retail Store,
-Tamaulipas,Reynosa,2020,Big Retail Store,
-BajaCalifornia,Tijuana,2020,Big Retail Store,
-Coahuila,Piedras Negras,2020,Big Retail Store,
-Chihuahua,Cd. Juárez,2020,Big Retail Store,
-Tamaulipas,Tampico,2020,Big Retail Store,
-Coahuila,Saltillo,2020,Big Retail Store,
-NuevoLeon,Monterrey,2020,Big Retail Store,
-Sonora,Cd. Obregón,2020,Big Retail Store,
-Coahuila,Torreón,2020,Big Retail Store,
-NuevoLeon,ZM Monterrey,2020,Big Retail Store,
-Sonora,Hermosillo,2020,Big Retail Store,
-Tamaulipas,Cd. Victoria,2020,Big Retail Store,
-Sonora,Nogales,2020,Big Retail Store,
-Tamaulipas,Matamoros,2020,Big Retail Store,
-Tamaulipas,Nuevo Laredo,2020,Big Retail Store,
-BajaCalifornia,Mexicali,2020,Big Retail Store,
-Chihuahua,Chihuahua,2020,Big Retail Store,
-Tamaulipas,Reynosa,2020,Big Retail Store,
-BajaCalifornia,Tijuana,2020,Big Retail Store,
-Coahuila,Piedras Negras,2020,Big Retail Store,
-Chihuahua,Cd. Juárez,2020,Big Retail Store,
-Tamaulipas,Tampico,2020,Big Retail Store,
-Coahuila,Saltillo,2020,Big Retail Store,
-NuevoLeon,Monterrey,2020,Big Retail Store,
-Sonora,Cd. Obregón,2020,Big Retail Store,
-Coahuila,Torreón,2020,Big Retail Store,
-NuevoLeon,ZM Monterrey,2020,Big Retail Store,
-Sonora,Hermosillo,2020,Big Retail Store,
-Tamaulipas,Cd. Victoria,2020,Big Retail Store,
-Sonora,Nogales,2020,Big Retail Store,
-Tamaulipas,Matamoros,2020,Big Retail Store,
-Tamaulipas,Nuevo Laredo,2020,Big Retail Store,
-BajaCalifornia,Mexicali,2020,Big Retail Store,
-Chihuahua,Chihuahua,2020,Big Retail Store,
-Tamaulipas,Reynosa,2020,Big Retail Store,
-BajaCalifornia,Tijuana,2020,Big Retail Store,
-Coahuila,Piedras Negras,2020,Big Retail Store,
-Chihuahua,Cd. Juárez,2020,Big Retail Store,
-Tamaulipas,Tampico,2020,Big Retail Store,
-Coahuila,Saltillo,2020,Big Retail Store,
-NuevoLeon,Monterrey,2020,Big Retail Store,
-Sonora,Cd. Obregón,2020,Big Retail Store,
-Coahuila,Torreón,2020,Big Retail Store,
-NuevoLeon,ZM Monterrey,2020,Big Retail Store,
-Sonora,Hermosillo,2020,Big Retail Store,
-Tamaulipas,Cd. Victoria,2020,Big Retail Store,
-Sonora,Nogales,2020,Big Retail Store,
-Tamaulipas,Matamoros,2020,Big Retail Store,
-Tamaulipas,Nuevo Laredo,2020,Big Retail Store,
-BajaCalifornia,Mexicali,2020,Big Retail Store,
 Chihuahua,Chihuahua,2020,Big Retail Store,13.6
-Tamaulipas,Reynosa,2020,Big Retail Store,
 BajaCalifornia,Tijuana,2020,Big Retail Store,11.7
-Coahuila,Piedras Negras,2020,Big Retail Store,
 Chihuahua,Cd. Juárez,2020,Big Retail Store,11
-Tamaulipas,Tampico,2020,Big Retail Store,
-Coahuila,Saltillo,2020,Big Retail Store,
-NuevoLeon,Monterrey,2020,Big Retail Store,
-Sonora,Cd. Obregón,2020,Big Retail Store,
-Coahuila,Torreón,2020,Big Retail Store,
-NuevoLeon,ZM Monterrey,2020,Big Retail Store,
 Sonora,Hermosillo,2020,Big Retail Store,11.83
-Tamaulipas,Cd. Victoria,2020,Big Retail Store,
 Sonora,Nogales,2020,Big Retail Store,10.7
-Tamaulipas,Matamoros,2020,Big Retail Store,
-Tamaulipas,Nuevo Laredo,2020,Big Retail Store,
 BajaCalifornia,Mexicali,2020,Big Retail Store,12
 Chihuahua,Chihuahua,2020,Big Retail Store,13.6
-Tamaulipas,Reynosa,2020,Big Retail Store,
 BajaCalifornia,Tijuana,2020,Big Retail Store,11.7
-Coahuila,Piedras Negras,2020,Big Retail Store,
 Chihuahua,Cd. Juárez,2020,Big Retail Store,11.13
-Tamaulipas,Tampico,2020,Big Retail Store,
-Coahuila,Saltillo,2020,Big Retail Store,
-NuevoLeon,Monterrey,2020,Big Retail Store,
-Sonora,Cd. Obregón,2020,Big Retail Store,
-Coahuila,Torreón,2020,Big Retail Store,
-NuevoLeon,ZM Monterrey,2020,Big Retail Store,
 Sonora,Hermosillo,2020,Big Retail Store,11.83
-Tamaulipas,Cd. Victoria,2020,Big Retail Store,
 Sonora,Nogales,2020,Big Retail Store,10.7
-Tamaulipas,Matamoros,2020,Big Retail Store,
-Tamaulipas,Nuevo Laredo,2020,Big Retail Store,
 BajaCalifornia,Mexicali,2020,Big Retail Store,12.3
 Chihuahua,Chihuahua,2020,Big Retail Store,13.93
-Tamaulipas,Reynosa,2020,Big Retail Store,
 BajaCalifornia,Tijuana,2020,Big Retail Store,11.7
-Coahuila,Piedras Negras,2020,Big Retail Store,
 Chihuahua,Cd. Juárez,2020,Big Retail Store,11.29
 Tamaulipas,Tampico,2020,Big Retail Store,12.43
 Coahuila,Saltillo,2020,Big Retail Store,16
 NuevoLeon,Monterrey,2020,Big Retail Store,11.73
-Sonora,Cd. Obregón,2020,Big Retail Store,
 Coahuila,Torreón,2020,Big Retail Store,12.37
 NuevoLeon,ZM Monterrey,2020,Big Retail Store,11.9
 Sonora,Hermosillo,2020,Big Retail Store,12.13
@@ -11517,16 +11242,13 @@ Sonora,Nogales,2020,Big Retail Store,10.7
 Tamaulipas,Matamoros,2020,Big Retail Store,12.23
 Tamaulipas,Nuevo Laredo,2020,Big Retail Store,12.2
 BajaCalifornia,Mexicali,2020,Big Retail Store,11.47
-Chihuahua,Chihuahua,2020,Big Retail Store,
 Tamaulipas,Reynosa,2020,Big Retail Store,12.3
 BajaCalifornia,Tijuana,2020,Big Retail Store,11.67
 Coahuila,Piedras Negras,2020,Big Retail Store,13.3
-Chihuahua,Cd. Juárez,2020,Big Retail Store,
 Tamaulipas,Tampico,2020,Big Retail Store,12.43
 Coahuila,Saltillo,2020,Big Retail Store,16
 NuevoLeon,Monterrey,2020,Big Retail Store,11.97
 Sonora,Cd. Obregón,2020,Big Retail Store,11.1
-Coahuila,Torreón,2020,Big Retail Store,
 NuevoLeon,ZM Monterrey,2020,Big Retail Store,11.97
 Sonora,Hermosillo,2020,Big Retail Store,12.13
 Tamaulipas,Cd. Victoria,2020,Big Retail Store,12
@@ -11534,26 +11256,21 @@ Sonora,Nogales,2020,Big Retail Store,10.7
 Tamaulipas,Matamoros,2020,Big Retail Store,12.23
 Tamaulipas,Nuevo Laredo,2020,Big Retail Store,12.2
 BajaCalifornia,Mexicali,2020,Big Retail Store,11.63
-Chihuahua,Chihuahua,2020,Big Retail Store,
 Tamaulipas,Reynosa,2020,Big Retail Store,11.96
 BajaCalifornia,Tijuana,2020,Big Retail Store,11.43
 Coahuila,Piedras Negras,2020,Big Retail Store,13.3
-Chihuahua,Cd. Juárez,2020,Big Retail Store,
 Tamaulipas,Tampico,2020,Big Retail Store,12.43
 Coahuila,Saltillo,2020,Big Retail Store,16
 NuevoLeon,Monterrey,2020,Big Retail Store,11.97
 Sonora,Cd. Obregón,2020,Big Retail Store,11.1
-Coahuila,Torreón,2020,Big Retail Store,
 NuevoLeon,ZM Monterrey,2020,Big Retail Store,11.97
 Sonora,Hermosillo,2020,Big Retail Store,12.13
 Tamaulipas,Cd. Victoria,2020,Big Retail Store,12
 Sonora,Nogales,2020,Big Retail Store,10.7
 Tamaulipas,Matamoros,2020,Big Retail Store,11.97
 Tamaulipas,Nuevo Laredo,2020,Big Retail Store,12.2
-BajaCalifornia,Mexicali,2020,Big Retail Store,
 Chihuahua,Chihuahua,2020,Big Retail Store,13.8
 Tamaulipas,Reynosa,2020,Big Retail Store,11.96
-BajaCalifornia,Tijuana,2020,Big Retail Store,
 Coahuila,Piedras Negras,2020,Big Retail Store,13.3
 Chihuahua,Cd. Juárez,2020,Big Retail Store,11.83
 Tamaulipas,Tampico,2020,Big Retail Store,12.43
@@ -11567,10 +11284,8 @@ Tamaulipas,Cd. Victoria,2020,Big Retail Store,12
 Sonora,Nogales,2020,Big Retail Store,10.7
 Tamaulipas,Matamoros,2020,Big Retail Store,11.97
 Tamaulipas,Nuevo Laredo,2020,Big Retail Store,12.2
-BajaCalifornia,Mexicali,2020,Big Retail Store,
 Chihuahua,Chihuahua,2020,Big Retail Store,13.8
 Tamaulipas,Reynosa,2020,Big Retail Store,11.8
-BajaCalifornia,Tijuana,2020,Big Retail Store,
 Coahuila,Piedras Negras,2020,Big Retail Store,13.3
 Chihuahua,Cd. Juárez,2020,Big Retail Store,11.49
 Tamaulipas,Tampico,2020,Big Retail Store,12.43
@@ -11584,18 +11299,12 @@ Tamaulipas,Cd. Victoria,2021,Mom and Pop Store,17.5
 Sonora,Nogales,2021,Mom and Pop Store,20
 Tamaulipas,Matamoros,2021,Mom and Pop Store,17.75
 Tamaulipas,Nuevo Laredo,2021,Mom and Pop Store,18
-BajaCalifornia,Mexicali,2021,Mom and Pop Store,
 Chihuahua,Chihuahua,2021,Mom and Pop Store,17.83
 Tamaulipas,Reynosa,2021,Mom and Pop Store,19
-BajaCalifornia,Tijuana,2021,Mom and Pop Store,
 Coahuila,Piedras Negras,2021,Mom and Pop Store,19
 Chihuahua,Cd. Juárez,2021,Mom and Pop Store,13.56
 Tamaulipas,Tampico,2021,Mom and Pop Store,18
-Coahuila,Saltillo,2021,Mom and Pop Store,
-NuevoLeon,Monterrey,2021,Mom and Pop Store,
 Sonora,Cd. Obregón,2021,Mom and Pop Store,20.67
-Coahuila,Torreón,2021,Mom and Pop Store,
-NuevoLeon,ZM Monterrey,2021,Mom and Pop Store,
 Sonora,Hermosillo,2021,Mom and Pop Store,22.67
 Tamaulipas,Cd. Victoria,2021,Mom and Pop Store,17.5
 Sonora,Nogales,2021,Mom and Pop Store,20
@@ -11605,14 +11314,11 @@ BajaCalifornia,Mexicali,2021,Mom and Pop Store,21.43
 Chihuahua,Chihuahua,2021,Mom and Pop Store,17.83
 Tamaulipas,Reynosa,2021,Mom and Pop Store,19
 BajaCalifornia,Tijuana,2021,Mom and Pop Store,17.82
-Coahuila,Piedras Negras,2021,Mom and Pop Store,
 Chihuahua,Cd. Juárez,2021,Mom and Pop Store,13.56
 Tamaulipas,Tampico,2021,Mom and Pop Store,18
 Coahuila,Saltillo,2021,Mom and Pop Store,16.6
-NuevoLeon,Monterrey,2021,Mom and Pop Store,
 Sonora,Cd. Obregón,2021,Mom and Pop Store,20.67
 Coahuila,Torreón,2021,Mom and Pop Store,16.4
-NuevoLeon,ZM Monterrey,2021,Mom and Pop Store,
 Sonora,Hermosillo,2021,Mom and Pop Store,22.67
 Tamaulipas,Cd. Victoria,2021,Mom and Pop Store,17.5
 Sonora,Nogales,2021,Mom and Pop Store,20
@@ -12009,10 +11715,8 @@ Tamaulipas,Cd. Victoria,2021,Big Retail Store,12
 Sonora,Nogales,2021,Big Retail Store,10.7
 Tamaulipas,Matamoros,2021,Big Retail Store,12.1
 Tamaulipas,Nuevo Laredo,2021,Big Retail Store,12.2
-BajaCalifornia,Mexicali,2021,Big Retail Store,
 Chihuahua,Chihuahua,2021,Big Retail Store,13.8
 Tamaulipas,Reynosa,2021,Big Retail Store,11.8
-BajaCalifornia,Tijuana,2021,Big Retail Store,
 Coahuila,Piedras Negras,2021,Big Retail Store,13.63
 Chihuahua,Cd. Juárez,2021,Big Retail Store,11.79
 Tamaulipas,Tampico,2021,Big Retail Store,12.43
@@ -12020,7 +11724,6 @@ Coahuila,Saltillo,2021,Big Retail Store,16
 NuevoLeon,Monterrey,2021,Big Retail Store,12.47
 Sonora,Cd. Obregón,2021,Big Retail Store,11.1
 Coahuila,Torreón,2021,Big Retail Store,11.97
-NuevoLeon,ZM Monterrey,2021,Big Retail Store,
 Sonora,Hermosillo,2021,Big Retail Store,12.13
 Tamaulipas,Cd. Victoria,2021,Big Retail Store,11.57
 Sonora,Nogales,2021,Big Retail Store,10.7
@@ -12030,14 +11733,10 @@ BajaCalifornia,Mexicali,2021,Big Retail Store,11.63
 Chihuahua,Chihuahua,2021,Big Retail Store,13.8
 Tamaulipas,Reynosa,2021,Big Retail Store,11.8
 BajaCalifornia,Tijuana,2021,Big Retail Store,11.53
-Coahuila,Piedras Negras,2021,Big Retail Store,
 Chihuahua,Cd. Juárez,2021,Big Retail Store,11.66
 Tamaulipas,Tampico,2021,Big Retail Store,12.43
-Coahuila,Saltillo,2021,Big Retail Store,
-NuevoLeon,Monterrey,2021,Big Retail Store,
 Sonora,Cd. Obregón,2021,Big Retail Store,11.1
 Coahuila,Torreón,2021,Big Retail Store,11.97
-NuevoLeon,ZM Monterrey,2021,Big Retail Store,
 Sonora,Hermosillo,2021,Big Retail Store,12.13
 Tamaulipas,Cd. Victoria,2021,Big Retail Store,12
 Sonora,Nogales,2021,Big Retail Store,10.7
@@ -12658,7 +12357,6 @@ Tamaulipas,Nuevo Laredo,2022,Mom and Pop Store,21
 BajaCalifornia,Mexicali,2022,Mom and Pop Store,25.29
 Chihuahua,Chihuahua,2022,Mom and Pop Store,21.17
 Tamaulipas,Reynosa,2022,Mom and Pop Store,23.25
-BajaCalifornia,Tijuana,2022,Mom and Pop Store,
 Coahuila,Piedras Negras,2022,Mom and Pop Store,22
 Chihuahua,Cd. Juárez,2022,Mom and Pop Store,21.22
 Tamaulipas,Tampico,2022,Mom and Pop Store,25
@@ -13083,7 +12781,6 @@ Tamaulipas,Nuevo Laredo,2022,Big Retail Store,13.1
 BajaCalifornia,Mexicali,2022,Big Retail Store,13.77
 Chihuahua,Chihuahua,2022,Big Retail Store,16.76
 Tamaulipas,Reynosa,2022,Big Retail Store,12.8
-BajaCalifornia,Tijuana,2022,Big Retail Store,
 Coahuila,Piedras Negras,2022,Big Retail Store,16.26
 Chihuahua,Cd. Juárez,2022,Big Retail Store,14.46
 Tamaulipas,Tampico,2022,Big Retail Store,14.6
